@@ -7,6 +7,7 @@ This repository contains Python scripts for analyzing financial data (PyBank) an
 ## Project Structure
 
 python-challenge/
+
 ├── PyBank/
 │ ├── main.py
 │ ├── Resources/
