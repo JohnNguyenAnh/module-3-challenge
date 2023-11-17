@@ -1,7 +1,7 @@
 import csv
 
 # Specify the path to the CSV file
-csv_path = "election_data.csv"
+csv_path = "Resources/election_data.csv"
 
 # Initialize variables
 total_votes = 0
